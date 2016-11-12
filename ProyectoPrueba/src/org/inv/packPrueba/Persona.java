@@ -29,7 +29,4 @@ public class Persona {
 		System.out.println("Esta persona llamada "+this.nombre+" "+ puede+" conducir en España.");
 	}
 	
-	public boolean conduce(){
-		return puedeConducir;
-	}
 }
