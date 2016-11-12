@@ -64,12 +64,8 @@ public class pruebaPersona {
 	
 	@Test
 	public void conduce() {
-		assertTrue(p1.conduce());
-		assertTrue(p3.conduce());
-		assertFalse(p2.conduce());
-		assertFalse(p4.conduce());
-		assertFalse(p5.conduce());
 		System.out.println("Este es un cambio de version :D ");
+		System.out.println("Cambio en nueva rama");
 	}
 	
 	
